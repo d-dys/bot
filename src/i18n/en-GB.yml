@@ -13,10 +13,10 @@ buttons:
     text: Close
   confirm_open:
     emoji: ✅
-    text: Create ticket
+    text: Create Ticket
   create:
     emoji: 🎫
-    text: Create a ticket
+    text: Create a Ticket
   edit:
     emoji: ✏️
     text: Edit
@@ -25,7 +25,7 @@ buttons:
     text: Reject
   transcript:
     emoji: 📄
-    text: Transcript
+    text: Fetch Transcript
   unclaim:
     emoji: ♻️
     text: Release
@@ -34,7 +34,7 @@ commands:
     create:
       name: Create ticket from message
     pin:
-      name: Pin message
+      name: Pin Message
       not_pinnable:
         description: |
           This message can't be pinned.
