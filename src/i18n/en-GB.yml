@@ -1,33 +1,23 @@
 buttons:
   accept_close_request:
-    emoji: ✅
     text: Accept
   cancel:
-    emoji: ➖
     text: Cancel
   claim:
-    emoji: 🙌
     text: Claim
   close:
-    emoji: ✖️
     text: Close
   confirm_open:
-    emoji: ✅
     text: Create Ticket
   create:
-    emoji: 🎫
     text: Create a Ticket
   edit:
-    emoji: ✏️
     text: Edit
   reject_close_request:
-    emoji: ✖️
     text: Reject
   transcript:
-    emoji: 📄
     text: Fetch Transcript
   unclaim:
-    emoji: ♻️
     text: Release
 commands:
   message:
